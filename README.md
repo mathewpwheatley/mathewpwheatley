@@ -1,7 +1,11 @@
-### Hi there 👋
+- [LinkedIn](https://www.linkedin.com/in/mathewpwheatley/)
+- [Medium](https://medium.com/@mathew.p.wheatley)
+
 
 <!--
 **mathewpwheatley/mathewpwheatley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
