@@ -4,3 +4,13 @@ I am a mechanical engineer turned software engineer located in Seattle, WA. I lo
 - [LinkedIn](https://www.linkedin.com/in/mathewpwheatley)
 - [Medium](https://medium.com/@mathew.p.wheatley)
 - [Youtube](https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ)
+
+Langauges/Frameworks
+- Python
+- Ruby
+- Ruby on Rails
+- SQL
+- Javascript
+- React
+- ANSYS
+- Java (Learning)
