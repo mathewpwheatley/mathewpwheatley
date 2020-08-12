@@ -5,3 +5,5 @@ I am a software engineer with a mechanical engineering background located in Sea
 - [LinkedIn](https://www.linkedin.com/in/mathewpwheatley)
 - [Medium](https://medium.com/@mathew.p.wheatley)
 - [Youtube](https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ)
+
+Im currently open to work, check out my [resume](/Mathew_Wheatley_Resume_2020.pdf)!
