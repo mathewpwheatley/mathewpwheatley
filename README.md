@@ -14,7 +14,7 @@ Im currently open to work, check out my [resume](https://github.com/mathewpwheat
 
 <p>
   <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coltonkaiser" height="30" width="30" /></a>
-    <a href="https://mathew-p-wheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coltonkaiser" height="30" width="30" /></a>
+    <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coltonkaiser" height="30" width="30" /></a>
     <a href="https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coltonkaiser" height="30" width="30" /></a>
  </p>
  
