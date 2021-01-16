@@ -2,6 +2,10 @@
 
 I am a software engineer with a mechanical engineering background located in Seattle, WA. I love to work on projects which can combined and stretch all my skill sets. In my spare time I like to hike, run, climb, camp, take photographs/video to document travel, play with drones, woodwork with lasers and CNC.
 
+### Current Projects:
+* Backend Developer Intern at Shopify
+* Volunteer Full Stack Developer at the Washington Conviction Vacation Project
+
 ### My Bootcamp Projects:
 * :beer: **Brewery Run** ([Hosted](https://brewery-run.herokuapp.com) | [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6696186084046573568) | [Front-End](https://github.com/mathewpwheatley/brewery-run-frontend) | [Back-End](https://github.com/mathewpwheatley/brewery-run-backend)):
   * Brewery Run is website that helps runners remain calorie neutral during those long runs by planning out routes with stops at your local breweries. Users can find created by the Brewery Run community via a name search or sort the circuits by rating, likes, favorites, etc. Circuit mapping, directions, and elevation maping is provided via the Google Maps API. A user can also create an accout which will grant them additional functionality such as the ability to follow users, write reviews, and create circuits. Each user also receives a customized dashboard which gathers their favorite circuits as well as those from users they are following, into a single page.
@@ -9,7 +13,6 @@ I am a software engineer with a mechanical engineering background located in Sea
   * Flatiron Fight is a game made with React that highlights the members of the Flatiron 4/20/2020 cohort and their amusing personalities. A user can select a character inspired by a cohort member, and use custom abilities to fight through the 'Flatiron Mods' in order to reach 'Mod 5' and face off against a Flatiron instructor.
 
 ### Connect With Me:
-
 <p>
   <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coltonkaiser" height="30" width="30" /></a>
     <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coltonkaiser" height="30" width="30" /></a>
