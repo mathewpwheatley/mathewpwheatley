@@ -4,7 +4,6 @@ I am a software engineer with a mechanical engineering background located in Sea
 
 ### Current Projects:
 * Backend Developer Intern at Shopify
-* Volunteer Full Stack Developer at the Washington Conviction Vacation Project
 
 ### My Bootcamp Projects:
 * :beer: **Brewery Run** ([Hosted](https://brewery-run.herokuapp.com) | [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6696186084046573568) | [Front-End](https://github.com/mathewpwheatley/brewery-run-frontend) | [Back-End](https://github.com/mathewpwheatley/brewery-run-backend)):
