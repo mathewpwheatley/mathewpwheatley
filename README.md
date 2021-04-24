@@ -2,6 +2,8 @@
 
 I am a software engineer with a mechanical engineering background located in Seattle, WA. I love to work on projects which can combined and stretch all my skill sets. In my spare time I like to hike, run, climb, camp, take photographs/video to document travel, play with drones, woodwork with lasers and CNC.
 
+Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwheatley/blob/master/Mathew_Wheatley_Resume_2021.pdf).
+
 ### Current Projects:
 * Backend Developer Intern at Shopify
 
