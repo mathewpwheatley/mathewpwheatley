@@ -13,32 +13,15 @@ I am a software engineer with a mechanical engineering background located in Sea
 
 ### Connect With Me:
 <p>
-  <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coltonkaiser" height="30" width="30" /></a>
-    <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coltonkaiser" height="30" width="30" /></a>
-    <a href="https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coltonkaiser" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathewpwheatley" height="30" width="30" /></a>
+    <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mathewpwheatley" height="30" width="30" /></a>
+    <a href="https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mathewpwheatley" height="30" width="30" /></a>
  </p>
  
  <br />
 
 ### Languages and Tools:
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" align="left" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" align="left" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" align="left" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" align="left" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" align="left" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" align="left" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+HTML, CSS, YAML, Markdown, Python, Ruby, Ruby on Rails, Minitest, Sorbet, SQL, GraphQL-Ruby, Postgresql, Javascript, Typescript, React, Redux, ChartJS, Bootstrap, Apollo, Heroku, Git, Github, Zenhub, Visual Studio Code, Figma, Miro, Tuple, Slack, Photoshop, Lightroom, Illustrator, Premier Pro, Inkscape, PTC Creo, Unigraphics, Fushion 360, Matlab, ANSYS Workbench, ANSYS ADPL
 
 <span>
 <img alt="Mat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathewpwheatley&show_icons=true&hide_border=true&hide=stars&theme=plain"/>
