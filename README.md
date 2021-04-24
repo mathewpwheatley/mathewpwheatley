@@ -14,8 +14,9 @@ I am a software engineer with a mechanical engineering background located in Sea
 ### Connect With Me:
 <p>
   <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathewpwheatley" height="30" width="30" /></a>
-    <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mathewpwheatley" height="30" width="30" /></a>
-    <a href="https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mathewpwheatley" height="30" width="30" /></a>
+  <a href="https://mathewpwheatley.medium.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mathewpwheatley" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/mathew.p.wheatley/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mathew.p.wheatley" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/channel/UCW4FrSWl9kSf0BFRw2GLMhQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mathewpwheatley" height="30" width="30" /></a>
  </p>
  
  <br />
