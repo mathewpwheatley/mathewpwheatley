@@ -12,7 +12,6 @@ Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwh
   * A Quick project which interfaces with Github's GraphQL API to browse a users pull request and close them in bulk. This is a feature not available on Github's website.
 * :beer: **Brewery Run** ([Hosted](https://brewery-run.herokuapp.com) | [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6696186084046573568) | [Front-End](https://github.com/mathewpwheatley/brewery-run-frontend) | [Back-End](https://github.com/mathewpwheatley/brewery-run-backend)):
   * Brewery Run is website that helps runners remain calorie neutral during those long runs by planning out routes with stops at your local breweries. Users can find created by the Brewery Run community via a name search or sort the circuits by rating, likes, favorites, etc. Circuit mapping, directions, and elevation mapping is provided via the Google Maps API. A user can also create an account which will grant them additional functionality such as the ability to follow users, write reviews, and create circuits. Each user also receives a customized dashboard which gathers their favorite circuits as well as those from users they are following, into a single page.
-* :fist: **Flatiron Fight** ([Hosted](https://flatiron-fight.herokuapp.com) | [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6689618509204475904) | [Front-End](https://github.com/mathewpwheatley/module-4-project-fantasy-rpg-frontend) | [Back-End](https://github.com/mathewpwheatley/module-4-project-fantasy-rpg-backend)):
 
 ### Connect With Me:
 <p>
@@ -25,7 +24,7 @@ Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwh
  <br />
 
 ### Languages and Tools:
-HTML, CSS, YAML, Markdown, Python, Ruby, Ruby on Rails, Minitest, Sorbet, SQL, GraphQL-Ruby, Postgresql, Javascript, Typescript, React, Redux, ChartJS, Bootstrap, Apollo, Heroku, Git, Github, Zenhub, Visual Studio Code, Figma, Miro, Tuple, Slack, Photoshop, Lightroom, Illustrator, Premier Pro, Inkscape, PTC Creo, Unigraphics, Fushion 360, Matlab, ANSYS Workbench, ANSYS ADPL
+HTML, CSS, YAML, Markdown, Python, Ruby, Ruby on Rails, Go, ANTLR, Sorbet, SQL, GraphQL-Ruby, Postgresql, Javascript, Typescript, Jest, React, Redux, ChartJS, Bootstrap, Apollo, Heroku, Git, Github, Zenhub, Visual Studio Code, Figma, Miro, Tuple, Slack, Photoshop, Lightroom, Illustrator, Premier Pro, Inkscape, PTC Creo, Unigraphics, Fushion 360, Matlab, ANSYS Workbench, ANSYS ADPL
 
 <span>
 <img alt="Mat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathewpwheatley&show_icons=true&hide_border=true&hide=stars&theme=plain"/>
