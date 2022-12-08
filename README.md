@@ -4,15 +4,6 @@ I am a software engineer with a mechanical engineering background located in Los
 
 Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwheatley/blob/master/Mathew_Wheatley_Resume_2021.pdf). ([Plain Resume](https://github.com/mathewpwheatley/mathewpwheatley/blob/master/Mathew_Wheatley_Resume_2022_Plain_One_Page.pdf))
 
-### Current Projects:
-* Backend Developer at Shopify
-
-### Previous Projects:
-* :wastebasket: **Github Cleanup** ([Front-End](https://github.com/mathewpwheatley/bootcamp-github-cleanup)):
-  * A Quick project which interfaces with Github's GraphQL API to browse a users pull request and close them in bulk. This is a feature not available on Github's website.
-* :beer: **Brewery Run** ([Hosted](https://brewery-run.herokuapp.com) | [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6696186084046573568) | [Front-End](https://github.com/mathewpwheatley/brewery-run-frontend) | [Back-End](https://github.com/mathewpwheatley/brewery-run-backend)):
-  * Brewery Run is website that helps runners remain calorie neutral during those long runs by planning out routes with stops at your local breweries. Users can find created by the Brewery Run community via a name search or sort the circuits by rating, likes, favorites, etc. Circuit mapping, directions, and elevation mapping is provided via the Google Maps API. A user can also create an account which will grant them additional functionality such as the ability to follow users, write reviews, and create circuits. Each user also receives a customized dashboard which gathers their favorite circuits as well as those from users they are following, into a single page.
-
 ### Connect With Me:
 <p>
   <a href="https://www.linkedin.com/in/mathewpwheatley" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathewpwheatley" height="30" width="30" /></a>
