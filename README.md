@@ -24,4 +24,4 @@ I am a software engineer with a passion for learning. I bring a unique perspecti
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewpwheatley&" alt="mathewpwheatley" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewpwheatley" alt="mathewpwheatley" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewpwheatley&row=1&margin-w=10" alt="mathewpwheatley" /></a> </p>
