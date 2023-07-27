@@ -4,7 +4,7 @@ I am a software engineer with a passion for learning. I bring a unique perspecti
 
 - ⌨️ I currently work at Shopify as a backend engineer.
 - 📈 I’m currently learning machine learning via Tensor Flow as well as Rust.
-- 📄 Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwheatley/blob/master/Mathew_Wheatley_Resume_2023_Plain_One_Page.pdf).
+- 📄 Learn more about me via my [Resume](https://github.com/mathewpwheatley/mathewpwheatley/blob/master/Mathew_Wheatley_Resume_2023_Color.pdf).
 - ⚡ In my spare time I like to hike, run, climb, camp, take photographs/video, travel, fly drones, woodwork, play with lasers and CNC.
 
 <h3 align="left">Connect with me:</h3>
